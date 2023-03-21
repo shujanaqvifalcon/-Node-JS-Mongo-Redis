@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/falconitconsultant/Node-JS.git"
+    "url": "https://github.com/shujanaqvifalcon/-Node-JS-Mongo-Redis.git"
   },
   "author": "Shuja Naqvi",
   "license": "ISC",
