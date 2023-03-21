@@ -7,6 +7,6 @@
 5. Create a copy of .env.example and rename it to .env.
 6. Run nodemon to start the server(yarn run dev).
 7. Redis Js file to connect application with redis server.
-8. check user controller to cache user :)
+8. check user controller to cache user :).
 
 That's it
